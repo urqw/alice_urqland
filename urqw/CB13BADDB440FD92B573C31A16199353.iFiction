@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ifindex version="1.0" xmlns="http://babel.ifarchive.org/protocol/iFiction/">
+	<story>
+		<identification>
+			<ifid>CB13BADDB440FD92B573C31A16199353</ifid>
+			<format>urqw</format>
+		</identification>
+		<bibliographic>
+			<title>Alice's Adventures in Urqland</title>
+			<author>Акела</author>
+			<language>ru</language>
+			<firstpublished>2008-06-05</firstpublished>
+			<genre>Сказка</genre>
+			<group>URQ</group>
+			<description>Неожиданно запахло горелой шерстью, и, из-за камня, выскочил уже знакомый мне кролик. Он выглядел немного опалённым, но это ничуть не уменьшило его болтливости...<br/>Посвящается одному очень хорошему человеку, которого тоже зовут Алиса.</description>
+		</bibliographic>
+		<contacts>
+			<url>https://urqw.github.io/UrqW/#alice_urqland</url>
+			<authoremail>akela88@bk.ru</authoremail>
+		</contacts>
+		<colophon>
+			<generator>UrqW Game Template</generator>
+			<originated>2025-09-24</originated>
+		</colophon>
+	</story>
+</ifindex>
